@@ -24,11 +24,9 @@ Checking the discovered host one of the discovered ip address has the same mac a
 
      The nmap scan validates that the ip address over that port is open
 9. we go to our web browser and input our ip address url
+![Screenshot 2024-08-02 102952](https://github.com/user-attachments/assets/91743063-98e6-4793-9fc1-9723b7f782e4)
 
-    
-     
-
-   
+and we have our webpage!
 
 # HOW TO SET UP ZAP
 
