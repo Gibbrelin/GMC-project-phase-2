@@ -45,6 +45,12 @@ Install ZAP's root CA certificate in your browser to intercept HTTPS traffic.
 
 2. Set the target url to the webpage url, enter the url to attack and click on the attack button
 
+   ![Screenshot 2024-08-02 103241](https://github.com/user-attachments/assets/76f1cab7-9d62-4378-a36a-9bb967f1d512)
+
+3. After clicking one the attack button ZAP starts spidering to discover all pages and endpoints of the targeted web application
+
+   
+
    
    
 
