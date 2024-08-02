@@ -11,6 +11,13 @@
 
 6. on the terminal input IFCONFIG to know the host ip address
 
+   ![Screenshot 2024-08-02 101507](https://github.com/user-attachments/assets/8a4bc3f6-957e-4af6-8b9a-e04343b4efb1)
+
+   pay attention to the ipv4 address and the mac address (which in my case is 192.168.65.128 and 00:0c:09:25:9a:5c)
+7. then we run netdiscover on the ip address to know the ip addresses running on the host using SUDO NETDISCOVER -R ip address ( sudo netdiscover -r 192.168.65.0/24)
+
+     
+
    
 
 # HOW TO SET UP ZAP
