@@ -1,4 +1,12 @@
 # DISCOVERING THE WEBPAGE URL
+TOOLS NEEDED:
+
+VMWARE
+
+KALI LINUX
+
+WEBPAGE VIRTUAL MACHINE
+
 1.download a webpage hosting page virtual machine from https://www.vulnhub.com/entry/drunk-admin-web-hacking-challenge-1,14/ for vmware 
 
 2.install the virtual machine
