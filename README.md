@@ -49,6 +49,11 @@ Install ZAP's root CA certificate in your browser to intercept HTTPS traffic.
 
 3. After clicking one the attack button ZAP starts spidering to discover all pages and endpoints of the targeted web application
 
+ ![Screenshot 2024-08-02 103329](https://github.com/user-attachments/assets/1d23f1d9-d31e-42af-b922-10dd865b2ea0)
+
+4. When the spidering is done ZAP begins active scanning on the web applications to search for vulnerabilities on the web application
+
+    
    
 
    
