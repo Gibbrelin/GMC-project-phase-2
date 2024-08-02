@@ -38,8 +38,15 @@ Configuration:
 Set up your browser to use ZAP as a proxy server. Typically, ZAP runs on localhost:8080.
 Install ZAP's root CA certificate in your browser to intercept HTTPS traffic.
 
-# USING ZAP:
+# USING ZAP FOR A SECURITY SCAN:
 1. open the ZAP application and get familiar with the interface
+
+   ![Screenshot 2024-08-02 102625](https://github.com/user-attachments/assets/d7a6d642-b084-4330-9331-3a46e8016c22)
+
+2. Set the target url to the webpage url, enter the url to attack and click on the attack button
+
+   
+   
 
 
 
