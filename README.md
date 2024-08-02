@@ -68,8 +68,20 @@ Orange flag: medium vulnerability
 Yellow Flag: low vulnerablilty
 
 Blue flag: very low vulnerability
-   
-   
+
+KEY FINDINGS
+
+No highly severe vulnerabilities were found
+
+Several medium vulnerabilities like cross site scripting and session hijacking was found
+
+NEXT STEPS
+
+Investigate the vulnerabilities and fix them
+
+re-scan the web application to check if the vulnerabilties has been fixed
+
+continue monitoring the web applications by making periodic scannings particularly after making updates and changes
 
 
 
