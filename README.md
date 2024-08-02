@@ -39,9 +39,6 @@ Set up your browser to use ZAP as a proxy server. Typically, ZAP runs on localho
 Install ZAP's root CA certificate in your browser to intercept HTTPS traffic.
 
 Using ZAP:
+1. open the ZAP application and get familiar with the interface
 
-Intercepting Traffic: Configure your browser to route traffic through ZAP, allowing you to intercept, inspect, and manipulate HTTP requests and responses.
-
-Scanning: Use the automated or manual tools to scan your application for vulnerabilities.
-
-Analyzing Results: Review findings in the "Alerts" tab and use ZAP's tools to further investigate potential issues.
+   
