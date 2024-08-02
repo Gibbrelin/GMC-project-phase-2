@@ -59,10 +59,14 @@ Install ZAP's root CA certificate in your browser to intercept HTTPS traffic.
 
    ![Screenshot 2024-08-02 103645](https://github.com/user-attachments/assets/29e75643-1bd6-4680-bbcf-61a8a8aedfae)
 
- ALERTS CONDITIONS
+ALERTS CONDITIONS
+
 Red flag: high/critical vulnerability
+
 Orange flag: medium vulnerability
+
 Yellow Flag: low vulnerablilty
+
 Blue flag: very low vulnerability
    
    
