@@ -1,3 +1,3 @@
-# GMC-project-phase-2
+# HOW TO SET UP ZAP
 
-HOW TO SETUP ZAP
+WHAT IS OSWAP ZAP 
