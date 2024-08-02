@@ -15,7 +15,12 @@
 
    pay attention to the ipv4 address and the mac address (which in my case is 192.168.65.128 and 00:0c:09:25:9a:5c)
 7. then we run netdiscover on the ip address to know the ip addresses running on the host using SUDO NETDISCOVER -R ip address ( sudo netdiscover -r 192.168.65.0/24)
+   ![Screenshot 2024-08-01 210334](https://github.com/user-attachments/assets/00aec24f-0ea6-4b46-a8fb-500e347fb01d)
 
+Checking the discovered host one of the discovered ip address has the same mac address as the normal ip address which is most likely our webpage ip address
+
+8. to validate if its the ip address of the webpage we use nmap to scan the ipaddress using the command nmap -p 8880 192.168.65.129
+   
      
 
    
