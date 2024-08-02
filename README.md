@@ -1,3 +1,18 @@
+# DISCOVERING THE WEBPAGE URL
+1.download a webpage hosting page virtual machine from https://www.vulnhub.com/entry/drunk-admin-web-hacking-challenge-1,14/ for vmware 
+
+2.install the virtual machine
+
+3. in the vmware application go to the settings then network adapter
+
+4. change it to custom (vmnet1) for both your kali linux and the web hosting page virtual machine
+
+5. log in to your kali VM
+
+6. on the terminal input IFCONFIG to know the host ip address
+
+   
+
 # HOW TO SET UP ZAP
 
 WHAT IS OSWAP ZAP 
@@ -74,6 +89,8 @@ KEY FINDINGS
 No highly severe vulnerabilities were found
 
 Several medium vulnerabilities like cross site scripting and session hijacking was found
+
+![Screenshot 2024-08-02 120842](https://github.com/user-attachments/assets/8e300092-b633-43f6-a32a-c56cda7e24d7)
 
 NEXT STEPS
 
