@@ -30,7 +30,7 @@ step 2. on the terminal input IFCONFIG to know the host ip address
 Step 3. then we run netdiscover on the ip address to know the ip addresses running on the host using SUDO NETDISCOVER -R ip address ( sudo netdiscover -r 192.168.65.0/24)
    ![Screenshot 2024-08-01 210334](https://github.com/user-attachments/assets/00aec24f-0ea6-4b46-a8fb-500e347fb01d)
 
-Checking the discovered host one of the discovered ip address has the same mac address as the normal ip address which is most likely our webpage ip address
+Upon checking the discovered host one of the discovered ip address has the same mac address as the normal ip address which is most likely our webpage ip address
 
 Step 4. to validate if its the ip address of the webpage we use nmap to scan the ipaddress using the command nmap -p 8880 192.168.65.129
  ![Screenshot 2024-08-01 210437](https://github.com/user-attachments/assets/c886d839-0e2b-4e42-aabf-37306a3d4ada)
