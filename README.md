@@ -34,8 +34,8 @@ Checking the discovered host one of the discovered ip address has the same mac a
 
 Step 4. to validate if its the ip address of the webpage we use nmap to scan the ipaddress using the command nmap -p 8880 192.168.65.129
  ![Screenshot 2024-08-01 210437](https://github.com/user-attachments/assets/c886d839-0e2b-4e42-aabf-37306a3d4ada)
+  The nmap scan validates that the ip address over that port is open
 
-     The nmap scan validates that the ip address over that port is open
 step 5. we go to our web browser and input our ip address url
 ![Screenshot 2024-08-02 102952](https://github.com/user-attachments/assets/91743063-98e6-4793-9fc1-9723b7f782e4)
 
